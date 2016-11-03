@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- generator="FeedCreator 1.7.2-ppt (info@mypapit.net)" -->
+<?xml-stylesheet href="" type="text/xsl"?>
+<rss version="2.0">
+    <channel>
+        <title>Tech-Noid Systems Live Show Podcast</title>
+        <description>An Online Resource Catering in All Things EDM</description>
+        <link>http://www.tech-noid.net</link>
+        <lastBuildDate>Tue, 27 Apr 2010 18:40:15 +0100</lastBuildDate>
+        <generator>FeedCreator 1.7.2-ppt (info@mypapit.net)</generator>
+        <image>
+            <url>http://master.tech-noid.net/path/to/image.png</url>
+            <title>Tech-Noid Systems Logo</title>
+            <link>http://www.tech-noid.net</link>
+            <description>Feed provided by tech-noid.net. Click to visit.</description>
+        </image>
+        <item>
+            <title>E-Roc &amp; Lazy Boy - Electrofunkula 04-24-2010</title>
+            <link>http://master.tech-noid.net/archives/E-Roc_&amp;_Lazy_Boy_-_Electrofunkula.04-24-2010-141235.mp3</link>
+            <description>Recorded Live on tech-noid.net 4/24/2010 2:12:35 PM PST</description>
+            <author>Tech-Noid Systems</author>
+            <pubDate>Sat, 24 Apr 2010 22:29:38 +0100</pubDate>
+            <enclosure url="http://master.tech-noid.net/archives/E-Roc_&amp;_Lazy_Boy_-_Electrofunkula.04-24-2010-141235.mp3" length="73193264" type="audio/x-mpeg"/>
+        </item>
+        <item>
+            <title> - </title>
+            <link>http://master.tech-noid.net/archives/E-Roc_&amp;_Lazy_Boy_-_420_like_what.04-20-2010-171617.mp3</link>
+            <description></description>
+            <author>Tech-Noid Systems</author>
+            <pubDate>Wed, 21 Apr 2010 03:00:06 +0100</pubDate>
+            <enclosure url="http://master.tech-noid.net/archives/E-Roc_&amp;_Lazy_Boy_-_420_like_what.04-20-2010-171617.mp3" length="156845784" type="audio/x-mpeg"/>
+        </item>
+        <item>
+            <title>disfigure - get j00r techno 04-17-2010</title>
+            <link>http://master.tech-noid.net/archives/disfigure_-_get_j00r_techno.04-17-2010-014104.mp3</link>
+            <description>Recorded Live on tech-noid.net 4/17/2010 1:41:04 AM PST</description>
+            <author>Tech-Noid Systems</author>
+            <pubDate>Sat, 17 Apr 2010 09:52:54 +0100</pubDate>
+            <enclosure url="http://master.tech-noid.net/archives/disfigure_-_get_j00r_techno.04-17-2010-014104.mp3" length="68298119" type="audio/x-mpeg"/>
+        </item>
+        <item>
+            <title> - </title>
+            <link>http://master.tech-noid.net/archives/E-Roc_&amp;_Lazy_Boy_-_Electrofunkula.04-16-2010-182243.mp3</link>
+            <description></description>
+            <author>Tech-Noid Systems</author>
+            <pubDate>Sat, 17 Apr 2010 04:18:35 +0100</pubDate>
+            <enclosure url="http://master.tech-noid.net/archives/E-Roc_&amp;_Lazy_Boy_-_Electrofunkula.04-16-2010-182243.mp3" length="168422847" type="audio/x-mpeg"/>
+        </item>
+        <item>
+            <title>E-Roc - Electrofunkula 04-15-2010</title>
+            <link>http://master.tech-noid.net/archives/E-Roc_-_Electrofunkula.04-15-2010-171114.mp3</link>
+            <description>Recorded Live on tech-noid.net 4/15/2010 5:11:14 PM PST</description>
+            <author>Tech-Noid Systems</author>
+            <pubDate>Fri, 16 Apr 2010 01:32:44 +0100</pubDate>
+            <enclosure url="http://master.tech-noid.net/archives/E-Roc_-_Electrofunkula.04-15-2010-171114.mp3" length="77541726" type="audio/x-mpeg"/>
+        </item>
+        <item>
+            <title>disfigure - rotten parts 04-15-2010</title>
+            <link>http://master.tech-noid.net/archives/disfigure_-_rotten_parts.04-14-2010-043442.mp3</link>
+            <description>Recorded Live on tech-noid.net 4/14/2010 4:34:42 AM PST</description>
+            <author>Tech-Noid Systems</author>
+            <pubDate>Thu, 15 Apr 2010 11:03:23 +0100</pubDate>
+            <enclosure url="http://master.tech-noid.net/archives/disfigure_-_rotten_parts.04-14-2010-043442.mp3" length="46639123" type="audio/x-mpeg"/>
+        </item>
+    </channel>
+</rss>
